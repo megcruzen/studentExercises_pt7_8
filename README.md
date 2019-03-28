@@ -1,4 +1,4 @@
-# Validating Student Exercise Data
+# Part 7: Validating Student Exercise Data
 https://github.com/nashville-software-school/bangazon-inc/blob/master/book-2-platform-api/chapters/STUDENT_EXERCISES_MODELSTATE.md
 
 ## Practice
@@ -10,7 +10,7 @@ https://github.com/nashville-software-school/bangazon-inc/blob/master/book-2-pla
 1. Student, and Instructor `SlackHandle` value should be a minimum of 3 characters and no more than 12.
 
 
-# Testing Student Exercise API
+# Part 8: Testing Student Exercise API
 https://github.com/nashville-software-school/bangazon-inc/blob/master/book-2-platform-api/chapters/STUDENT_EXERCISES_TESTING.md
 
 ## Practice
